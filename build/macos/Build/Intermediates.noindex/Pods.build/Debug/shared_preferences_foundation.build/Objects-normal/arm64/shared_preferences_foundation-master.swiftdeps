@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "774084419d0255a68402aa2a89cbd677586ddedb7ba88a585e4f6f88dc203ad7"
+build_start_time: [1696407414, 229233000]
+build_end_time: [1696407424, 531729000]
+inputs:
+  "/Users/kimminjun/.pub-cache/hosted/pub.dev/shared_preferences_foundation-2.3.4/darwin/Classes/SharedPreferencesPlugin.swift": [1696312516, 94751139]
+  "/Users/kimminjun/.pub-cache/hosted/pub.dev/shared_preferences_foundation-2.3.4/darwin/Classes/messages.g.swift": [1696312516, 94365702]
